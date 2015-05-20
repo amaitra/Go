@@ -1,2 +1,2 @@
 # Go
-Go learning repository
+Go learning repository to start learing the language
